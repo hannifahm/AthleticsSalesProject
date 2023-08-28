@@ -16,8 +16,7 @@ To see finished visualisation on Tableau, click [HERE](https://public.tableau.co
 * Data Visualisation: sparklines, donut charts, CLT Matrix, rounded bar chart, barbell chart, geographical map, tree map
 
 ### Languages/Tools Used
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" height="70" />
-<img src="https://img.icons8.com/?size=512&id=xkshT6OxzUja&format=png" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70" height="70" /> <img src="https://img.icons8.com/?size=512&id=xkshT6OxzUja&format=png" width="70" height="70" />
 
 
 
